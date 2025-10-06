@@ -599,7 +599,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by the CrowdSafe AI Team**
+**Made by the CrowdSafe AI Team**
 
 *Protecting crowds, one frame at a time* 🎥🛡️
 
